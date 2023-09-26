@@ -5,10 +5,10 @@
 This Model predicts the possibility of Heart Disease of the User by taking input from the user as follows 
 
 **Age:** The age of the patient.
-**Sex:** The gender of the patient.
-**Chest pain type:** A categorical attribute indicating the type of chest pain experienced by the patient. It has four possible values.
-**Resting blood pressure:** The resting blood pressure of the patient.
-**Serum cholesterol**: The serum cholesterol level in mg/dl of the patient.
+\n**Sex:** The gender of the patient.
+\n**Chest pain type:** A categorical attribute indicating the type of chest pain experienced by the patient. It has four possible values.
+\n**Resting blood pressure:** The resting blood pressure of the patient.
+\n**Serum cholesterol**: The serum cholesterol level in mg/dl of the patient.
 **Fasting blood sugar:** Indicates whether the patient's fasting blood sugar is greater than 120 mg/dl.
 **Resting electrocardiographic results:** A categorical attribute representing the results of the resting electrocardiogram. It has three possible values.
 **Maximum heart rate achieved:** The maximum heart rate achieved by the patient.
